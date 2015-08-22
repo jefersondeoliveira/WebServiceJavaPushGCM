@@ -13,7 +13,7 @@ import java.net.URL;
 public class GcmRequest {
 	
 	private static final String URL = "https://android.googleapis.com/gcm/send";
-    private static final String apiKey = "AIzaSy...";
+    private static final String apiKey = "AIza...";
 
     public static String post(PushRequest content) {
 
